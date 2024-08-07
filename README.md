@@ -48,4 +48,4 @@ beautifulsoup4
 ### おまけ（APIドキュメントを見る）
 1．VS_codeでターミナルを開き、uvicorn main:app --reloadを入力\
 2．http://127.0.0.1:8000/redoc（もしくはdocs） にアクセス \
-3．API仕様書が表示される\
+3．API仕様書が表示される
